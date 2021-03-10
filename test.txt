@@ -1,1 +1,15 @@
-yo
+Hvad betyder det? Ud fra jeres intuition beskriv:
+Hvad er formålet med dokumentation?
+Formålet er at informerer om hvordan et stykke arbejde er blevet udført, så det kan genlaves med samme resultat.
+
+
+Hvordan vil i gribe det an hvis i skulle beskrive et program og begrunde jeres valg?
+Kort, men grundigt så så der er en klar forståelse omkring hvad programmet gør evt. i punktform.
+Hvilke værktøjer vil I bruge?
+En Readme fil?
+
+
+15 minutter i grupper
+Skriv stikord
+Lig filen i jeres repository
+
